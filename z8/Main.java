@@ -55,6 +55,7 @@ public class Main {
 
     }
     public static void main(String[] args) {
+	// wpisujemy true albo false
         boolean p[] = new boolean[4];
         boolean q[] = new boolean[4];
         Scanner scanner = new Scanner(System.in);
